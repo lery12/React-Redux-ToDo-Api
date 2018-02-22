@@ -1,0 +1,16 @@
+.DoToTitle {
+    text-align: center;
+    padding: 25px;
+    color: black;
+}
+.ToDoInput{
+    padding: 50px;
+    margin: auto;
+}
+.ToDoApp {
+    width: 60%;
+    margin: auto;
+}
+.text-center{
+    text-align: center;
+}
